@@ -1,0 +1,1053 @@
+{
+  "coc-python|global": {
+    "INTERPRETERS_CACHE_v3_CondaEnvFileService": [],
+    "INTERPRETERS_CACHE_v3_CondaEnvService": [],
+    "INTERPRETERS_CACHE_v3_VirtualEnvService": [],
+    "/usr/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "b3e6a6af6744b4d17aa972d7b8669ae4db14c6f5440c51dc6df8686ef8458cc7cc56cf2eb99d71dea6a5a655b39fd8ec2005afe55df653b4cb26df46963458ce"
+      },
+      "expiry": 1700333738753
+    },
+    "/bin/python3.10.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "40fb48f2695ae28bf413dd2c784ba96802e1d36a64f37e849dac07a3a41173f2f6526e99b6623b1c59ce46c6013ec1cb37b3230928ecb49f6c732e0d367432e3"
+      },
+      "expiry": 1700333738791
+    },
+    "/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "b3e6a6af6744b4d17aa972d7b8669ae4db14c6f5440c51dc6df8686ef8458cc7cc56cf2eb99d71dea6a5a655b39fd8ec2005afe55df653b4cb26df46963458ce"
+      },
+      "expiry": 1700333738792
+    },
+    "/usr/bin/python3.10.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "40fb48f2695ae28bf413dd2c784ba96802e1d36a64f37e849dac07a3a41173f2f6526e99b6623b1c59ce46c6013ec1cb37b3230928ecb49f6c732e0d367432e3"
+      },
+      "expiry": 1700333738752
+    },
+    "INTERPRETERS_CACHE_v3_CurrentPathService": [
+      {
+        "architecture": 3,
+        "path": "/home/joeisenman/nvim/github_repos/help/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/home/joeisenman/nvim/github_repos/help/venv",
+        "fileHash": "6fa416492d9c570d2c7df772cf9de595906609aaa8d02e2e6a82dba8ba80a4d3f6989f2956d341f22f122e75e4fda27b30d73a4f5433f30f2905bf3a434f7193",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/joeisenman/nvim/github_repos/help/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/home/joeisenman/nvim/github_repos/help/venv",
+        "fileHash": "6fa416492d9c570d2c7df772cf9de595906609aaa8d02e2e6a82dba8ba80a4d3f6989f2956d341f22f122e75e4fda27b30d73a4f5433f30f2905bf3a434f7193",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/joeisenman/nvim/github_repos/help/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/home/joeisenman/nvim/github_repos/help/venv",
+        "fileHash": "6fa416492d9c570d2c7df772cf9de595906609aaa8d02e2e6a82dba8ba80a4d3f6989f2956d341f22f122e75e4fda27b30d73a4f5433f30f2905bf3a434f7193",
+        "type": "Unknown"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_KnownPathsService": [
+      {
+        "architecture": 3,
+        "path": "/home/joeisenman/nvim/github_repos/help/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/home/joeisenman/nvim/github_repos/help/venv",
+        "fileHash": "6fa416492d9c570d2c7df772cf9de595906609aaa8d02e2e6a82dba8ba80a4d3f6989f2956d341f22f122e75e4fda27b30d73a4f5433f30f2905bf3a434f7193",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/joeisenman/nvim/github_repos/help/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/home/joeisenman/nvim/github_repos/help/venv",
+        "fileHash": "6fa416492d9c570d2c7df772cf9de595906609aaa8d02e2e6a82dba8ba80a4d3f6989f2956d341f22f122e75e4fda27b30d73a4f5433f30f2905bf3a434f7193",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/joeisenman/nvim/github_repos/help/venv/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/home/joeisenman/nvim/github_repos/help/venv",
+        "fileHash": "6fa416492d9c570d2c7df772cf9de595906609aaa8d02e2e6a82dba8ba80a4d3f6989f2956d341f22f122e75e4fda27b30d73a4f5433f30f2905bf3a434f7193",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "b3e6a6af6744b4d17aa972d7b8669ae4db14c6f5440c51dc6df8686ef8458cc7cc56cf2eb99d71dea6a5a655b39fd8ec2005afe55df653b4cb26df46963458ce",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "40fb48f2695ae28bf413dd2c784ba96802e1d36a64f37e849dac07a3a41173f2f6526e99b6623b1c59ce46c6013ec1cb37b3230928ecb49f6c732e0d367432e3",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "b3e6a6af6744b4d17aa972d7b8669ae4db14c6f5440c51dc6df8686ef8458cc7cc56cf2eb99d71dea6a5a655b39fd8ec2005afe55df653b4cb26df46963458ce",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "40fb48f2695ae28bf413dd2c784ba96802e1d36a64f37e849dac07a3a41173f2f6526e99b6623b1c59ce46c6013ec1cb37b3230928ecb49f6c732e0d367432e3",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "b3e6a6af6744b4d17aa972d7b8669ae4db14c6f5440c51dc6df8686ef8458cc7cc56cf2eb99d71dea6a5a655b39fd8ec2005afe55df653b4cb26df46963458ce",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "40fb48f2695ae28bf413dd2c784ba96802e1d36a64f37e849dac07a3a41173f2f6526e99b6623b1c59ce46c6013ec1cb37b3230928ecb49f6c732e0d367432e3",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "b3e6a6af6744b4d17aa972d7b8669ae4db14c6f5440c51dc6df8686ef8458cc7cc56cf2eb99d71dea6a5a655b39fd8ec2005afe55df653b4cb26df46963458ce",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "40fb48f2695ae28bf413dd2c784ba96802e1d36a64f37e849dac07a3a41173f2f6526e99b6623b1c59ce46c6013ec1cb37b3230928ecb49f6c732e0d367432e3",
+        "type": "Unknown"
+      }
+    ],
+    "PipEnvInformation": [],
+    "/usr/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.12 64-bit",
+        "hash": "b3e6a6af6744b4d17aa972d7b8669ae4db14c6f5440c51dc6df8686ef8458cc7cc56cf2eb99d71dea6a5a655b39fd8ec2005afe55df653b4cb26df46963458ce-341e92837545f94bd14a2811f1a4583a"
+      },
+      "expiry": 1700333739847
+    },
+    "/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.12 64-bit",
+        "hash": "b3e6a6af6744b4d17aa972d7b8669ae4db14c6f5440c51dc6df8686ef8458cc7cc56cf2eb99d71dea6a5a655b39fd8ec2005afe55df653b4cb26df46963458ce-40d61444c855dad6ecf24728eedc7b6a"
+      },
+      "expiry": 1700333739845
+    },
+    "/usr/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "b3e6a6af6744b4d17aa972d7b8669ae4db14c6f5440c51dc6df8686ef8458cc7cc56cf2eb99d71dea6a5a655b39fd8ec2005afe55df653b4cb26df46963458ce",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.10.12-final",
+            "major": 3,
+            "minor": 10,
+            "patch": 12,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.10.12-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "b3e6a6af6744b4d17aa972d7b8669ae4db14c6f5440c51dc6df8686ef8458cc7cc56cf2eb99d71dea6a5a655b39fd8ec2005afe55df653b4cb26df46963458ce",
+          "type": "Unknown",
+          "displayName": "Python 3.10.12 64-bit"
+        }
+      },
+      "expiry": 1700279693576
+    },
+    "/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "b3e6a6af6744b4d17aa972d7b8669ae4db14c6f5440c51dc6df8686ef8458cc7cc56cf2eb99d71dea6a5a655b39fd8ec2005afe55df653b4cb26df46963458ce",
+        "info": {
+          "architecture": 3,
+          "path": "/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.10.12-final",
+            "major": 3,
+            "minor": 10,
+            "patch": 12,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.10.12-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "b3e6a6af6744b4d17aa972d7b8669ae4db14c6f5440c51dc6df8686ef8458cc7cc56cf2eb99d71dea6a5a655b39fd8ec2005afe55df653b4cb26df46963458ce",
+          "type": "Unknown",
+          "displayName": "Python 3.10.12 64-bit"
+        }
+      },
+      "expiry": 1700333739858
+    },
+    "InterpreterAutoSeletionRule-currentPath": {
+      "architecture": 3,
+      "path": "/usr/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.12-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 12,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.12-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "b3e6a6af6744b4d17aa972d7b8669ae4db14c6f5440c51dc6df8686ef8458cc7cc56cf2eb99d71dea6a5a655b39fd8ec2005afe55df653b4cb26df46963458ce",
+      "type": "Unknown",
+      "cachedEntry": true
+    },
+    "preferredGlobalPyInterpreter": {
+      "architecture": 3,
+      "path": "/usr/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.12-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 12,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.12-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "b3e6a6af6744b4d17aa972d7b8669ae4db14c6f5440c51dc6df8686ef8458cc7cc56cf2eb99d71dea6a5a655b39fd8ec2005afe55df653b4cb26df46963458ce",
+      "type": "Unknown"
+    },
+    "InterpreterAutoSeletionRule-system": {
+      "architecture": 3,
+      "path": "/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.12-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 12,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.12-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "b3e6a6af6744b4d17aa972d7b8669ae4db14c6f5440c51dc6df8686ef8458cc7cc56cf2eb99d71dea6a5a655b39fd8ec2005afe55df653b4cb26df46963458ce",
+      "type": "Unknown",
+      "displayName": "Python 3.10.12 64-bit"
+    },
+    "InterpreterAutoSeletionRule-cachedInterpreters": {
+      "architecture": 3,
+      "path": "/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.12-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 12,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.12-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "b3e6a6af6744b4d17aa972d7b8669ae4db14c6f5440c51dc6df8686ef8458cc7cc56cf2eb99d71dea6a5a655b39fd8ec2005afe55df653b4cb26df46963458ce",
+      "type": "Unknown",
+      "cachedEntry": true,
+      "displayName": "Python 3.10.12 64-bit"
+    },
+    "ProposeLSBanner": false,
+    "pylint_DisableLinterInstallPrompt": true,
+    "/home/joeisenman/nvim/github_repos/help/venv/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/joeisenman/nvim/github_repos/help/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/home/joeisenman/nvim/github_repos/help/venv",
+        "fileHash": "6fa416492d9c570d2c7df772cf9de595906609aaa8d02e2e6a82dba8ba80a4d3f6989f2956d341f22f122e75e4fda27b30d73a4f5433f30f2905bf3a434f7193"
+      },
+      "expiry": 1700279693465
+    },
+    "/home/joeisenman/nvim/github_repos/help/venv/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/joeisenman/nvim/github_repos/help/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/home/joeisenman/nvim/github_repos/help/venv",
+        "fileHash": "6fa416492d9c570d2c7df772cf9de595906609aaa8d02e2e6a82dba8ba80a4d3f6989f2956d341f22f122e75e4fda27b30d73a4f5433f30f2905bf3a434f7193"
+      },
+      "expiry": 1700279693466
+    },
+    "/home/joeisenman/nvim/github_repos/help/venv/bin/python3.10.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/joeisenman/nvim/github_repos/help/venv/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/home/joeisenman/nvim/github_repos/help/venv",
+        "fileHash": "6fa416492d9c570d2c7df772cf9de595906609aaa8d02e2e6a82dba8ba80a4d3f6989f2956d341f22f122e75e4fda27b30d73a4f5433f30f2905bf3a434f7193"
+      },
+      "expiry": 1700279693487
+    },
+    "/home/joeisenman/nvim/github_repos/help/venv/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "6fa416492d9c570d2c7df772cf9de595906609aaa8d02e2e6a82dba8ba80a4d3f6989f2956d341f22f122e75e4fda27b30d73a4f5433f30f2905bf3a434f7193"
+      },
+      "expiry": 1700279693478
+    },
+    "/home/joeisenman/nvim/github_repos/help/venv/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.12 64-bit ('venv': venv)",
+        "hash": "6fa416492d9c570d2c7df772cf9de595906609aaa8d02e2e6a82dba8ba80a4d3f6989f2956d341f22f122e75e4fda27b30d73a4f5433f30f2905bf3a434f7193-3c8145d80d2b22db8721dc199838f634"
+      },
+      "expiry": 1700279693497
+    },
+    "/home/joeisenman/nvim/github_repos/help/venv/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.12 64-bit ('venv': venv)",
+        "hash": "6fa416492d9c570d2c7df772cf9de595906609aaa8d02e2e6a82dba8ba80a4d3f6989f2956d341f22f122e75e4fda27b30d73a4f5433f30f2905bf3a434f7193-ceb3e4cbf1b6a08ba307152776763147"
+      },
+      "expiry": 1700279693500
+    },
+    "/home/joeisenman/nvim/github_repos/help/venv/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "6fa416492d9c570d2c7df772cf9de595906609aaa8d02e2e6a82dba8ba80a4d3f6989f2956d341f22f122e75e4fda27b30d73a4f5433f30f2905bf3a434f7193",
+        "info": {
+          "architecture": 3,
+          "path": "/home/joeisenman/nvim/github_repos/help/venv/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.10.12-final",
+            "major": 3,
+            "minor": 10,
+            "patch": 12,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.10.12-final"
+          },
+          "sysPrefix": "/home/joeisenman/nvim/github_repos/help/venv",
+          "fileHash": "6fa416492d9c570d2c7df772cf9de595906609aaa8d02e2e6a82dba8ba80a4d3f6989f2956d341f22f122e75e4fda27b30d73a4f5433f30f2905bf3a434f7193",
+          "envName": "venv",
+          "type": "Venv",
+          "displayName": "Python 3.10.12 64-bit ('venv': venv)"
+        }
+      },
+      "expiry": 1700279693512
+    }
+  },
+  "coc-python|/home/joeisenman/.config": {
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService:7a6da5e430366be3bee566529e7396dc": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:7a6da5e430366be3bee566529e7396dc": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/joeisenman/.config": {
+      "architecture": 3,
+      "path": "/usr/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.12-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 12,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.12-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "b3e6a6af6744b4d17aa972d7b8669ae4db14c6f5440c51dc6df8686ef8458cc7cc56cf2eb99d71dea6a5a655b39fd8ec2005afe55df653b4cb26df46963458ce",
+      "type": "Unknown"
+    }
+  },
+  "coc-python|/home/joeisenman/.config/nvim": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:ce67f4482b57747b29abccb1d00792a4": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:ce67f4482b57747b29abccb1d00792a4": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/joeisenman/.config/nvim": {
+      "architecture": 3,
+      "path": "/usr/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.12-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 12,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.12-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "b3e6a6af6744b4d17aa972d7b8669ae4db14c6f5440c51dc6df8686ef8458cc7cc56cf2eb99d71dea6a5a655b39fd8ec2005afe55df653b4cb26df46963458ce",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/joeisenman/nvim/github_repos/spotify_API": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:02be48f97d4a73e7072d53ebae5f24d0": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:02be48f97d4a73e7072d53ebae5f24d0": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/joeisenman/nvim/github_repos/spotify_API": {
+      "architecture": 3,
+      "path": "/usr/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.12-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 12,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.12-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "b3e6a6af6744b4d17aa972d7b8669ae4db14c6f5440c51dc6df8686ef8458cc7cc56cf2eb99d71dea6a5a655b39fd8ec2005afe55df653b4cb26df46963458ce",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/joeisenman/nvim/github_repos": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:61394c1be408b55887a90223f52d05e7": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:61394c1be408b55887a90223f52d05e7": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/joeisenman/nvim/github_repos": {
+      "architecture": 3,
+      "path": "/usr/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.12-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 12,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.12-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "b3e6a6af6744b4d17aa972d7b8669ae4db14c6f5440c51dc6df8686ef8458cc7cc56cf2eb99d71dea6a5a655b39fd8ec2005afe55df653b4cb26df46963458ce",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/joeisenman/nvim/github_repos/jordanGpt": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:d57bde2f138ab826f9725192aece52b8": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:d57bde2f138ab826f9725192aece52b8": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/joeisenman/nvim/github_repos/jordanGpt": {
+      "architecture": 3,
+      "path": "/usr/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.12-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 12,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.12-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "b3e6a6af6744b4d17aa972d7b8669ae4db14c6f5440c51dc6df8686ef8458cc7cc56cf2eb99d71dea6a5a655b39fd8ec2005afe55df653b4cb26df46963458ce",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/joeisenman/nvim/github_repos/help": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:e0ff45d95f58531eeba38cd09e810686": [],
+    "SelectedPythonPath": "/home/joeisenman/nvim/github_repos/help/venv/bin/python3",
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:e0ff45d95f58531eeba38cd09e810686": [
+      {
+        "architecture": 3,
+        "path": "/home/joeisenman/nvim/github_repos/help/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/home/joeisenman/nvim/github_repos/help/venv",
+        "fileHash": "6fa416492d9c570d2c7df772cf9de595906609aaa8d02e2e6a82dba8ba80a4d3f6989f2956d341f22f122e75e4fda27b30d73a4f5433f30f2905bf3a434f7193",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/joeisenman/nvim/github_repos/help/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/home/joeisenman/nvim/github_repos/help/venv",
+        "fileHash": "6fa416492d9c570d2c7df772cf9de595906609aaa8d02e2e6a82dba8ba80a4d3f6989f2956d341f22f122e75e4fda27b30d73a4f5433f30f2905bf3a434f7193",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/joeisenman/nvim/github_repos/help/venv/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/home/joeisenman/nvim/github_repos/help/venv",
+        "fileHash": "6fa416492d9c570d2c7df772cf9de595906609aaa8d02e2e6a82dba8ba80a4d3f6989f2956d341f22f122e75e4fda27b30d73a4f5433f30f2905bf3a434f7193",
+        "envName": "venv",
+        "type": "Venv"
+      }
+    ],
+    "autoSelectedWorkspacePythonInterpreter-/home/joeisenman/nvim/github_repos/help": {
+      "architecture": 3,
+      "path": "/home/joeisenman/nvim/github_repos/help/venv/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.12-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 12,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.12-final"
+      },
+      "sysPrefix": "/home/joeisenman/nvim/github_repos/help/venv",
+      "fileHash": "6fa416492d9c570d2c7df772cf9de595906609aaa8d02e2e6a82dba8ba80a4d3f6989f2956d341f22f122e75e4fda27b30d73a4f5433f30f2905bf3a434f7193",
+      "type": "VirtualEnv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/joeisenman/nvim/github_repos/help/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/home/joeisenman/nvim/github_repos/help/venv",
+        "fileHash": "6fa416492d9c570d2c7df772cf9de595906609aaa8d02e2e6a82dba8ba80a4d3f6989f2956d341f22f122e75e4fda27b30d73a4f5433f30f2905bf3a434f7193",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/joeisenman/nvim/github_repos/help/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/home/joeisenman/nvim/github_repos/help/venv",
+        "fileHash": "6fa416492d9c570d2c7df772cf9de595906609aaa8d02e2e6a82dba8ba80a4d3f6989f2956d341f22f122e75e4fda27b30d73a4f5433f30f2905bf3a434f7193",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/joeisenman/nvim/github_repos/help/venv/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.12-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.12-final"
+        },
+        "sysPrefix": "/home/joeisenman/nvim/github_repos/help/venv",
+        "fileHash": "6fa416492d9c570d2c7df772cf9de595906609aaa8d02e2e6a82dba8ba80a4d3f6989f2956d341f22f122e75e4fda27b30d73a4f5433f30f2905bf3a434f7193",
+        "envName": "venv",
+        "type": "Venv"
+      }
+    ]
+  }
+}
